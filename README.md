@@ -13,11 +13,11 @@
 
 ## 🌈 Technologies
 
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#5ED3F3)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=#FF2700)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=#8513F1)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=#7377AD)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![React](https://img.shields.io/badge/React-blue?style=&logo=react)
+![Redux](https://img.shields.io/badge/Redux-purple?style=&logo=Redux)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=&logo=Bootstrap)
+![PHP](https://img.shields.io/badge/php-white?style=&logo=php)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=&logo=Firebase)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -32,18 +32,19 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Telegram Api](https://img.shields.io/badge/-Telegram_Api-black?style=flat-square&
+![Telegram Api](https://img.shields.io/badge/-Telegram_Api-black?style=flat-square&logo=telegram)
+
 
 
 ## 🚀 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Rikonardo&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikonardo&hide=html&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=VladimirGorin&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGorin&hide=html&layout=compact&theme=tokyonight)
 
 
 ## 📞 Contacts
 
-[![Email](https://img.shields.io/badge/Email-vladimirgorin410@gmail.com-E34F26?style=flat-square&logo=gmail)](mailto:rikonardo.of@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Vladimir003)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCLY2f_BWSLbsjjI5_bSngnw)
-[![Kwork](https://img.shields.io/badge/Kwork-43263)](https://kwork.ru/user/vladimirgorin)
+[![Email](https://img.shields.io/badge/Email-vladimirgorin410@gmail.com-E34F26?style=flat-square&logo=gmail)](mailto:vladimirgorin410@gmail.com)
+[![Telegram](https://img.shields.io/badge/telegram-vladimirgorin-blue?style=flat-square&logo=telegram)](https://t.me/Vladimir003)
+[![YouTube](https://img.shields.io/badge/youtube-vladimirgorin-red?style=&logo=youtube)](https://www.youtube.com/channel/UCLY2f_BWSLbsjjI5_bSngnw)
+[![Kwork](https://img.shields.io/badge/kwork-vladimirgorin-yellow)](https://kwork.ru/user/vladimirgorin)
