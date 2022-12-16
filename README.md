@@ -43,8 +43,9 @@
 
 
 ## 📞 Contacts
-
-[![Email](https://img.shields.io/badge/Email-vladimirgorin410@gmail.com-E34F26?style=flat-square&logo=gmail)](mailto:vladimirgorin410@gmail.com)
-[![Telegram](https://img.shields.io/badge/telegram-vladimirgorin-blue?style=flat-square&logo=telegram)](https://t.me/Vladimir003)
-[![YouTube](https://img.shields.io/badge/youtube-vladimirgorin-red?style=&logo=youtube)](https://www.youtube.com/channel/UCLY2f_BWSLbsjjI5_bSngnw)
-[![Kwork](https://img.shields.io/badge/kwork-vladimirgorin-yellow)](https://kwork.ru/user/vladimirgorin)
+<div>
+  [![Email](https://img.shields.io/badge/Email-vladimirgorin410@gmail.com-E34F26?style=flat-square&logo=gmail)](mailto:vladimirgorin410@gmail.com)
+  [![Telegram](https://img.shields.io/badge/telegram-vladimirgorin-blue?style=flat-square&logo=telegram)](https://t.me/Vladimir003)
+  [![YouTube](https://img.shields.io/badge/youtube-vladimirgorin-red?style=&logo=youtube)](https://www.youtube.com/channel/UCLY2f_BWSLbsjjI5_bSngnw)
+  [![Kwork](https://img.shields.io/badge/kwork-vladimirgorin-yellow)](https://kwork.ru/user/vladimirgorin)
+<div>
