@@ -20,7 +20,6 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=&logo=Figma)
 ![Server](https://img.shields.io/badge/Server-Tuning-black?style=&logo=Server)
 ![OOP](https://img.shields.io/badge/OOP-black?style=&logo=OOP)
-![Figma](https://img.shields.io/badge/Figma-black?style=&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=&logo=Photoshop)
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=&logo=SCSS)
 ![PHP](https://img.shields.io/badge/php-white?style=&logo=php)
