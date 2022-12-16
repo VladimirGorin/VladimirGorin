@@ -1,6 +1,5 @@
 <!-- [![Header](./assets/header_top.png)] -->
 <div align="center">
-  <img align="center" src="./assets/header_top.png"/>
 <div>
 
 ## 🌈 Technologies
