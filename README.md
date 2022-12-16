@@ -1,15 +1,7 @@
 <!-- [![Header](./assets/header_top.png)] -->
-<img align="center" src="./assets/header_top.png"/>
-
-
-### Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Бизнес телеграмм бот](https://www.youtube.com/watch?v=ewT1NyLxbRo)
-- [React приложения 0.1 версия проекта (логика проекта похожа на zoom)](https://www.youtube.com/watch?v=-FaDlJreCJ0&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%93%D0%BE%D1%80%D0%B8%D0%BD)
-- [Коврк проект лендинг](https://www.youtube.com/watch?v=itVlhSk-fxE&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%93%D0%BE%D1%80%D0%B8%D0%BD)
-- [Верстка + адаптив](https://www.youtube.com/watch?v=uiCO5j0fVMw&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%93%D0%BE%D1%80%D0%B8%D0%BD)
-- [Верска на ajax запросах (без перезагрузки страницы)](https://www.youtube.com/watch?v=WA_lY7-Vhlk&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%93%D0%BE%D1%80%D0%B8%D0%BD)
-<!-- YOUTUBE:END -->
+<div align="center">
+  <img align="center" src="./assets/header_top.png"/>
+<div>
 
 ## 🌈 Technologies
 
