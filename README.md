@@ -1,51 +1,66 @@
-<div id="header" align="center">
-  <img autoplay="autoplay" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <div id="header">
+    <img autoplay="autoplay" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
+  <div align="center" id="badges">
+    <a href="mailto:vladimirgorin410@gmail.com">
+      <img src="https://img.shields.io/badge/-vladimirgorin410%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://t.me/Vladimir003">
+      <img src="https://img.shields.io/badge/-Vladimir003-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://kwork.ru/user/vladimirgorin">
+      <img src="https://img.shields.io/badge/-vladimirgorin-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Badge"/>
+    </a>
+     <a href="https://freelance.habr.com/freelancers/vladimirgorin">
+      <img src="https://img.shields.io/badge/-vladimirgorin-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
+    </a>
+  </div>  
+  <img src="https://komarev.com/ghpvc/?username=VladimirGorin&style=flat-square&color=blue" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
 </div>
-  
-  
-## 🌈 Technologies
+### :woman_technologist: About Me :
+I am a Frontend Developer from Russia. <br>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-![React](https://img.shields.io/badge/React-blue?style=&logo=react)
-![Redux](https://img.shields.io/badge/Redux-purple?style=&logo=Redux)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=&logo=Bootstrap)
-![WordPress](https://img.shields.io/badge/WordPress-black?style=&logo=WordPress)
-![Figma](https://img.shields.io/badge/Figma-black?style=&logo=Figma)
-![Server](https://img.shields.io/badge/Server-Tuning-black?style=&logo=Server)
-![OOP](https://img.shields.io/badge/OOP-black?style=&logo=OOP)
-![Photoshop](https://img.shields.io/badge/Photoshop-black?style=&logo=Photoshop)
-![SCSS](https://img.shields.io/badge/SCSS-black?style=&logo=SCSS)
-![PHP](https://img.shields.io/badge/php-white?style=&logo=php)
-![Firebase](https://img.shields.io/badge/Firebase-white?style=&logo=Firebase)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXFJREFUOE+V08GLTnEUxvHPyTQKqYnQpNBIyYKyEaspNQsbOyULC0uLiYXIxoKVkC2lZGVBk5WEspA/gMyGKEkzTWpCM6KjM/2u8nqNmVO3e7v3nu85z3POL/wnMjNwDA8jYqr39/q4aGTmGlzFlYh4vSxASz6D3TgaEV+WDMjMLa3ytqqOGTzrhfSV0CrfxrpKwnpcX7KEzBzFDZzFOZyKiKf9zPpXB3twC5da+xci4uZyAAW+iLfYi604HBHzi5qYmRuwC3N4gxEMYSeuYUeB8KKT9IeEzDyN8WbcS3zHML7hPR7hEI7UvSbSCyjXj+MAJvGzJRfoMWqRzmMTTpakv0xsEzjRtBag4isetOfq6H5E1F7oBygfLuMzPmGwJd7Bu4jooAuvFwCZuaJWFZX8HNuxH2ubjDJ0Ah+bya+6g9UBVraZ72vuT2O2VR5AFViNVfiBJ7hX3fyWkJkF2YwxHMTGllCcgpXmuj7gbrfWvwDownkRrwSiYQAAAABJRU5ErkJggg==)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C#](https://img.shields.io/badge/-C%23-9A4F96?style=flat-square&logo=csharp)
-![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go)
-![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Telegram Api](https://img.shields.io/badge/-Telegram_Api-black?style=flat-square&logo=telegram)
+- :seedling: Exploring Technical Content Writing.
 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-## 🚀 Stats
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Vladimir003-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vladimir003)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=VladimirGorin&count_private=true&show_icons=true&include_all_commits=true&theme=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGorin&theme=white)
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Ngix" alt="Ngix" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="NuxstJs" alt="NuxstJs" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
-
-## 📞 Contacts
-
-[![Email](https://img.shields.io/badge/Email-vladimirgorin410@gmail.com-E34F26?style=flat-square&logo=gmail)](mailto:vladimirgorin410@gmail.com)
-[![Telegram](https://img.shields.io/badge/telegram-vladimirgorin-blue?style=flat-square&logo=telegram)](https://t.me/Vladimir003)
-[![YouTube](https://img.shields.io/badge/youtube-vladimirgorin-red?style=&logo=youtube)](https://www.youtube.com/channel/UCLY2f_BWSLbsjjI5_bSngnw)
-[![Kwork](https://img.shields.io/badge/kwork-vladimirgorin-yellow)](https://kwork.ru/user/vladimirgorin)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VladimirGorin&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGorin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
