@@ -1,7 +1,8 @@
 <!-- [![Header](./assets/header_top.png)] -->
 <div align="center">
 <div>
-
+  
+  
 ## 🌈 Technologies
 
 ![React](https://img.shields.io/badge/React-blue?style=&logo=react)
