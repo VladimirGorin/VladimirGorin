@@ -39,7 +39,7 @@
 ## 🚀 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=VladimirGorin&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGorin&hide=html&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=VladimirGorin&hide=html&layout=compact&theme=vue-dark)
 
 
 ## 📞 Contacts
