@@ -26,7 +26,7 @@
   </div>
 </div>
 ### :woman_technologist: About Me :
-I am a Frontend Developer from Russia. <br>
+ I am a Frontend Developer from Russia. <br>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
