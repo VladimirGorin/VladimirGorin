@@ -6,7 +6,6 @@
     <a href="mailto:vladimirgorin410@gmail.com">
       <img src="https://img.shields.io/badge/-vladimirgorin410%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    
     <a href="https://t.me/Vladimir003">
       <img src="https://img.shields.io/badge/-Vladimir003-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
