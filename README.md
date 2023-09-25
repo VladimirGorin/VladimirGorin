@@ -12,7 +12,7 @@
     <a href="https://kwork.ru/user/vladimirgorin">
       <img src="https://img.shields.io/badge/-vladimirgorin-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Badge"/>
     </a>
-     <a href="https://freelance.habr.com/freelancers/vladimirgorin">
+     <a href="https://freelance.habr.com/freelancers/AndreySmirnoff">
       <img src="https://img.shields.io/badge/-vladimirgorin-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
     </a>
   </div>  
