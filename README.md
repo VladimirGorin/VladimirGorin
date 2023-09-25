@@ -65,5 +65,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VladimirGorin&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirGorin&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGorin&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirGorin&hide=contribs,prs&theme=dark&background=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
