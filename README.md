@@ -64,7 +64,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VladimirGorin&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGorin&layout=compact&theme=dark&background=000000)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirGorin&hide=contribs,prs&theme=dark&background=000000)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGorin&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirGorin&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirGorin&theme=dark)
 
