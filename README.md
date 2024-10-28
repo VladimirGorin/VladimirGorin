@@ -24,10 +24,11 @@
 <!--   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div> -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGorin&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirGorin&theme=dark) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirGorin&theme=dark)
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGorin&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirGorin&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirGorin&theme=dark)
  
 
 ### :woman_technologist: About Me :
