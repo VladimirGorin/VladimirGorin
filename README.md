@@ -26,11 +26,6 @@
   </div> -->
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGorin&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirGorin&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirGorin&theme=dark)
- 
-
 ### :woman_technologist: About Me :
  I am a Fullstack Middle Developer from Russia <br>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -41,7 +36,13 @@
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Vladimir003-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vladimir003)
 
-  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGorin&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirGorin&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirGorin&theme=dark)
+ 
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
