@@ -1,32 +1,3 @@
-<!--START_SECTION:waka-->
-<div align="center">
-  <div id="header">
-    <img autoplay="autoplay" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="100"/>
-  </div>
-  <div align="center" id="badges">
-    <a href="mailto:vladimirgorin410@gmail.com">
-      <img src="https://img.shields.io/badge/-vladimirgorin410%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://t.me/Vladimir003">
-      <img src="https://img.shields.io/badge/-Vladimir003-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="https://kwork.ru/user/vladimirgorin">
-      <img src="https://img.shields.io/badge/-vladimirgorin-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Badge"/>
-    </a>
-     <a href="https://freelance.habr.com/freelancers/AndreySmirnoff">
-      <img src="https://img.shields.io/badge/-vladimirgorin-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
-    </a>
-  </div>  
-  <img src="https://komarev.com/ghpvc/?username=VladimirGorin&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-<!--   <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div> -->
-</div>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
