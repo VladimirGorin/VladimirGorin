@@ -41,7 +41,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGorin&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirGorin&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirGorin&theme=dark)
-![](<a href="https://github.com/VladimirGorin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGorin&layout=compact&hide_border=true&theme=dark" /></a>)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGorin&layout=compact&hide_border=true&theme=dark)
 
 
 ### :hammer_and_wrench: Languages and Tools :
