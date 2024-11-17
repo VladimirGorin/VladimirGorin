@@ -27,23 +27,6 @@
   </div> -->
 </div>
 
-### :woman_technologist: About Me :
- I am a Fullstack Middle Developer from Russia <br>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Vladimir003-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vladimir003)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGorin&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirGorin&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirGorin&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=VladimirGorin&theme=dark&show_icons=true&include_all_commits=true&hide_border=true)
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
@@ -62,4 +45,19 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/virtualbox/virtualbox-original-wordmark.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/> 
-<!--END_SECTION:waka-->
+
+<!--   ### :woman_technologist: About Me :
+ I am a Fullstack Middle Developer from Russia <br>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Vladimir003-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vladimir003)
+-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGorin&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirGorin&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirGorin&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=VladimirGorin&theme=dark&show_icons=true&include_all_commits=true&hide_border=true)
